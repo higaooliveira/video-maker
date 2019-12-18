@@ -61,3 +61,5 @@ typings/
 .next
 
 content.json
+content/*.png
+content/*.jpg
